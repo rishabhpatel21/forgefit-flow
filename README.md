@@ -1,6 +1,6 @@
 <h1 align="center"> Simple Gym System </h1>
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/93389016/157983116-9feca44c-b9c1-43a0-97f3-e40fb90d685f.png" alt="Build Status">
+   <img src="" alt="Build Status">
 </p>
 
 ## Description:
